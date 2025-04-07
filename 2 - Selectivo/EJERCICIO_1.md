@@ -18,5 +18,5 @@
                 Edad: 11
 
                 Volve en 3 años!
-                Solo a partir de los 14 años pueden venir!
+                Solo a partir de los 14 años pueden comprar en esta tienda!
                 ```
