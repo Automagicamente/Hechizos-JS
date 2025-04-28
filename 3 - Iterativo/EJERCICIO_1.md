@@ -1,5 +1,5 @@
 ### Ejercicio 1 
-#### 
+#### Practica de hechizos
 
 - Es crucial que los estudiantes aprendan los nombres de los hechizos correctamente para realizar magia de manera efectiva. 
 - En la clase de Encantamientos, los estudiantes deben demostrar su habilidad para recordar y lanzar los hechizos correctamente.
@@ -11,10 +11,10 @@
     -   ```
         *** Iniciar simulacion ***
 
-        wingardium levisa
+        wingardim levisa
         error - intentos restantes 1
-        wingardim leviosa
-        
+        Wingardium leviosa
+        Correcto!
 
         *** Fin simulacion ***
         ```
