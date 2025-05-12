@@ -53,4 +53,5 @@
 
 * Extra
     - Mostrar la lista final de ingredientes en _**orden alfabético**_ 
+- Extra 2
     - Simular el buscar ingrediente, en vez de mostrar un menu, generandolo aleatoriamente a partir de la posicion de un vector de ingredientes disponibles
