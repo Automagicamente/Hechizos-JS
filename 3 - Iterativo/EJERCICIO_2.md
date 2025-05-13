@@ -39,3 +39,13 @@
 
             ...
             ```
+<br>
+<br>
+<br>
+
+1. Extra
+    - Permitir lanzar minimo 2 hechizos diferentes
+        - El segundo hechizo lanza el doble de daño pero tiene un 70% de probabilidad en fallar
+1. Extra
+    - Permitir que el dementor realice un doble ataque de forma aleatoria en cada turno con un 5% de probabilidad
+        - Adicional: regular el doble ataque cada 2 turnos
